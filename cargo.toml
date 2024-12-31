@@ -1,0 +1,19 @@
+[package]
+name = "pet-kitten-cli-rust"
+version = "0.1.0"
+authors = ["Parv Jhanwar <parvjhanwar@gmail.com>"]
+edition = "2021"
+description = "A simple command-line pet kitten simulation written in Rust."
+license = "MIT"
+repository = "https://github.com/prvjhnwr/pet-kitten-cli-rust"
+keywords = ["cli", "pet", "kitten", "simulation"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+rand = "0.8"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+[[bin]]
+name = "pet-kitten-cli-rust"
+path = "src/main.rs"
