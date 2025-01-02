@@ -4,7 +4,7 @@
 This program allows you to have and take care of your very own pet cat over the command line. Your cat will have different needs, and you can choose to fulfill or ignore those needs. However, be warned, ignoring your kitty and their needs will cause them to run away!
 
 ## Features
-- Name your kitty
+- Name your kitty :)
 - Take care of your kitty's needs (thirst, hunger, playfulness, snuggles)
 - Random events that affect your kitty's happiness, health, and energy
 - Visit the vet, beach, park, or go on a walk based on your kitty's age
